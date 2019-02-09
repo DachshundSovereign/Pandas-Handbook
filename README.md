@@ -5,6 +5,7 @@ Collections of frequently used [Pandas](https://pandas.pydata.org/) commands. Th
 * [Installation](#installation)
 * [Examples](notebooks)
     * [Construction](notebooks/construction.ipynb)
+    * [Attributes](notebooks/attributes.ipynb)
 
 ## Installation
 Pandas can be installed easily using package manager pip:
