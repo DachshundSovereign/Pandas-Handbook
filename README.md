@@ -1,5 +1,5 @@
 ## NumPy Handbook
-Collections of frequently used [Pandas](https://pandas.pydata.org/) commands. This repository aims to provide quick reference and tutorials for the usage of Pandas. The commands are tested under Pandas 0.20.3 and Python 3.56. Most of the content in this repository is created as the note while I was studying [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do). I highly recommend to go through this book if you are interseted in data science for Python. ([Full Text](https://jakevdp.github.io/PythonDataScienceHandbook/))
+Collections of frequently used [Pandas](https://pandas.pydata.org/) commands. This repository aims to provide quick reference and tutorials for the usage of Pandas. The commands are tested under NumPy 1.12.1, Pandas 0.20.3, Seaborn 0.9.0 and Python 3.56. Most of the content in this repository is created as the note while I was studying [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do). I highly recommend to go through this book if you are interseted in data science for Python. ([Full Text](https://jakevdp.github.io/PythonDataScienceHandbook/))
 
 ## Table of Contents
 * [Installation](#installation)
@@ -10,6 +10,7 @@ Collections of frequently used [Pandas](https://pandas.pydata.org/) commands. Th
     * [Hierarchical Index](notebooks/hierarchical_index.ipynb)
     * [Manipulation](notebooks/manipulation.ipynb)
     * [Missing Value](notebooks/missing_value.ipynb)
+    * [Arithmetic](notebooks/arithmetic.ipynb)
 
 ## Installation
 Pandas can be installed easily using package manager pip:
