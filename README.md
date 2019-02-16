@@ -11,6 +11,7 @@ Collections of frequently used [Pandas](https://pandas.pydata.org/) commands. Th
     * [Manipulation](notebooks/manipulation.ipynb)
     * [Missing Value](notebooks/missing_value.ipynb)
     * [Arithmetic](notebooks/arithmetic.ipynb)
+    * [String](notebooks/string.ipynb)
 
 ## Installation
 Pandas can be installed easily using package manager pip:
