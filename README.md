@@ -12,6 +12,8 @@ Collections of frequently used [Pandas](https://pandas.pydata.org/) commands. Th
     * [Missing Value](notebooks/missing_value.ipynb)
     * [Arithmetic](notebooks/arithmetic.ipynb)
     * [String](notebooks/string.ipynb)
+    * [Datetime](notebooks/datetime.ipynb)
+* [Reference](#reference)
 
 ## Installation
 Pandas can be installed easily using package manager pip:
@@ -22,3 +24,11 @@ or conda:
 ```bash
 conda install -c anaconda pandas
 ```
+
+## Reference
+* [Series](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.html)
+* [DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html)
+* [Time Series](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html)
+* [String](https://pandas.pydata.org/pandas-docs/stable/user_guide/text.html)
+* [Manipulation](https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html)
+* [Missing Value](https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html)
